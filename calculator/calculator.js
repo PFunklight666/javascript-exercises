@@ -1,16 +1,16 @@
-function add () {
+const add = () => {
 	
 }
 
-function subtract () {
+const subtract =  () => {
 	
 }
 
-function sum () {
+const sum = () => {
 	
 }
 
-function multiply () {
+const multiply =  () => {
 	
 }
 
