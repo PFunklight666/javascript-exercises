@@ -14,11 +14,11 @@ const multiply =  () => {
 	
 }
 
-function power() {
+let power = () => {
 	
 }
 
-function factorial() {
+let factorial = () => {
 	
 }
 
