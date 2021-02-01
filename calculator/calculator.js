@@ -1,12 +1,13 @@
-const add = () => {
+const add = (a,b) => {
+	return  a + b;
 	
 }
 
-const subtract =  () => {
-	
+const subtract =  (a,b) => {
+	return a - b;
 }
 
-const sum = () => {
+const sum = (...args) => {
 	
 }
 
